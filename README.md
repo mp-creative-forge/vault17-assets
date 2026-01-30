@@ -1,2 +1,2 @@
 # vault17-assets
-for_vault17_game
+Assets for Vault 17 game project
